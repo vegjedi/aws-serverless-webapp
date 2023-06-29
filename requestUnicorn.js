@@ -1,3 +1,5 @@
+// This is not my code, but the old code from AWS Serverless Project using Node.js 16.x runtime
+
 const randomBytes = require('crypto').randomBytes;
 
 const AWS = require('aws-sdk');
